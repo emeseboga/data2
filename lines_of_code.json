@@ -1,0 +1,682 @@
+[
+  {
+    "Application": "iOS app - simple game",
+    "Lines": 0.01,
+    "Type": "app",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "10,000  LOC. Imangi is a word game app, same people also made Temple Run",
+    "Source2": "iPhoneDevSDK"
+  },
+  {
+    "Application": "Unix v 1.0 (1971)",
+    "Lines": 0.01,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": 10000,
+    "Source2": ""
+  },
+  {
+    "Application": "Win32/Simile virus",
+    "Lines": 0.01,
+    "Type": "virus",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "a metamorphic (very complex) computer virus, released 2002 had 14000 LOC",
+    "Source2": "Wikipedia, Security Response"
+  },
+  {
+    "Application": "iOS app - photo editing",
+    "Lines": 0.04,
+    "Type": "app",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "39,924 LOC. Camera Genius is a photo editing app.",
+    "Source2": "CodeGoo"
+  },
+  {
+    "Application": "Pacemaker",
+    "Lines": 0.08,
+    "Type": "the software in a heart pacemaker",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "80,000",
+    "Source2": "Coverity infographic, MathWorks.com"
+  },
+  {
+    "Application": "Photoshop v1 (1990)",
+    "Lines": 0.12,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Slashdot"
+  },
+  {
+    "Application": "Camino",
+    "Lines": 0.2,
+    "Type": "browser",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Ohloh"
+  },
+  {
+    "Application": "Quake 3 engine",
+    "Lines": 0.31,
+    "Type": "computer game",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "310000 LOC computer game.",
+    "Source2": "Quora"
+  },
+  {
+    "Application": "Space Shuttle",
+    "Lines": 0.4,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "primary flight software",
+    "Source2": "Nasa"
+  },
+  {
+    "Application": "18000 pages of printed text",
+    "Lines": 1,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "on typical 20-pound paper, would be a stack 6 feet tall",
+    "Source2": "Embedded"
+  },
+  {
+    "Application": "Crysis",
+    "Lines": 1,
+    "Type": "game",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Quora"
+  },
+  {
+    "Application": "War And Peace x 14, Ulysses x 25, The Catcher in The Rye x 63",
+    "Lines": 1,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Embedded"
+  },
+  {
+    "Application": "Syphilis",
+    "Lines": 1.14,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "Treponema pallidum, the bacteria that causes Syphilis (1039 genes and 1,138,011 base pairs)",
+    "Source2": "Kimball's Biology Pages"
+  },
+  {
+    "Application": "Age of Empires Online",
+    "Lines": 1.2,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Wikipedia"
+  },
+  {
+    "Application": "CESM Community Earth System Model",
+    "Lines": 1.2,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "Climate model from the National Center for Atmospheric Research",
+    "Source2": "Daily Camera"
+  },
+  {
+    "Application": "F-22 Raptor",
+    "Lines": 1.7,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Coverity inforgraphic"
+  },
+  {
+    "Application": "Linux Kernel 2.2.0 (1999)",
+    "Lines": 1.8,
+    "Type": "increase in code relative to previous version: 289%",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Wikipedia"
+  },
+  {
+    "Application": "Hubble Space Telescope",
+    "Lines": 2,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "NYTImes"
+  },
+  {
+    "Application": "Unreal Engine 3",
+    "Lines": 2,
+    "Type": "game",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Quora"
+  },
+  {
+    "Application": "Lines of code de-bugged in the Jurassic Park network by Dennis Nedry",
+    "Lines": 2,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "He's totally unappreciated in his time",
+    "Source2": "Jurassic Park"
+  },
+  {
+    "Application": "Windows 3.1 (1992)",
+    "Lines": 2.5,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "CNET"
+  },
+  {
+    "Application": "Drones (control software)",
+    "Lines": 3.5,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Wired"
+  },
+  {
+    "Application": "ROOT software (at the LHC)",
+    "Lines": 3.5,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "ROOT, a software program used by CERN's physicists to store, analyze, and visualize petabytes of data about the LHC experiment",
+    "Source2": "Coverity"
+  },
+  {
+    "Application": "Photoshop CS 6 (2012)",
+    "Lines": 4.5,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "PC World"
+  },
+  {
+    "Application": "Windows NT 3.1 (1993)",
+    "Lines": 4.5,
+    "Type": "operating system",
+    "": 4,
+    "__1": 5,
+    "__2": "",
+    "Source1": "",
+    "Source2": "Knowing .net"
+  },
+  {
+    "Application": "HD DVD Players on XBox",
+    "Lines": 4.7,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Microsoft Blog"
+  },
+  {
+    "Application": "HealthCare.gov - needed to repair",
+    "Lines": 5,
+    "Type": "website",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "Obamacare online enrollment system might actually need 5 million lines of code to be rewritten just to repair the problems encountered on the site",
+    "Source2": "Examiner"
+  },
+  {
+    "Application": "Mars Curiosity Rover",
+    "Lines": 5,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Slashdot"
+  },
+  {
+    "Application": "Linux kernel 2.6.0 (2003)",
+    "Lines": 5.2,
+    "Type": "operating system",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "only wiki source",
+    "Source2": "Wikipedia"
+  },
+  {
+    "Application": "Google Chrome (estimate 2) (2011)",
+    "Lines": 5.4,
+    "Type": "browser",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": ""
+  },
+  {
+    "Application": "World of WarCraft (Server)",
+    "Lines": 5.5,
+    "Type": "game",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "GamesspotUK"
+  },
+  {
+    "Application": "Windows XP Service Pack 1",
+    "Lines": 6.1,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Microsoft Blog"
+  },
+  {
+    "Application": "Boeing 787",
+    "Lines": 6.5,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "Avionics and online support systems",
+    "Source2": "Coverity inforgraphic"
+  },
+  {
+    "Application": "Google Chrome",
+    "Lines": 6.7,
+    "Type": "browser",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": 6677875,
+    "Source2": "Ohloh"
+  },
+  {
+    "Application": "Windows NT 3.5 (1994)",
+    "Lines": 7.5,
+    "Type": "increase in code relative to previous version: 166%",
+    "": 7,
+    "__1": 8,
+    "__2": "",
+    "Source1": "",
+    "Source2": "Knowing .net"
+  },
+  {
+    "Application": "Windows NT 3.51 (1995)",
+    "Lines": 9.5,
+    "Type": "operating system",
+    "": 9,
+    "__1": 10,
+    "__2": "",
+    "Source1": "",
+    "Source2": "Knowing .net"
+  },
+  {
+    "Application": "Firefox",
+    "Lines": 9.7,
+    "Type": "browser",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Ohloh"
+  },
+  {
+    "Application": "Chevy Volt (electric car)",
+    "Lines": 10,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Coverity inforgraphic, SmartPlanet"
+  },
+  {
+    "Application": "Intuit Quickbooks",
+    "Lines": 10,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Slashdot"
+  },
+  {
+    "Application": "Windows NT 4.0 (1996)",
+    "Lines": 11.5,
+    "Type": "operating system. increase in code relative to previous version: 153%",
+    "": 11,
+    "__1": 12,
+    "__2": "",
+    "Source1": "",
+    "Source2": "Knowing .net"
+  },
+  {
+    "Application": "Android",
+    "Lines": 12,
+    "Type": "operating system",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "including 3 million lines of XML, 2.8 million lines of C, 2.1 million lines of Java, and 1.75 million lines of C++",
+    "Source2": "XDA Developers Forum"
+  },
+  {
+    "Application": "Mozilla Core",
+    "Lines": 12.5,
+    "Type": "code libraries used by all Mozilla apps like Firefox",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": 12528368,
+    "Source2": "Ohloh"
+  },
+  {
+    "Application": "MySQL",
+    "Lines": 12.5,
+    "Type": "database format",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Ohloh"
+  },
+  {
+    "Application": "Boeing 787, total flight software",
+    "Lines": 14,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "Total flight software",
+    "Source2": "NYC Aviator"
+  },
+  {
+    "Application": "Android (upper estimate)",
+    "Lines": 15,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": ""
+  },
+  {
+    "Application": "Linux 3.1 (recent version, 2013)",
+    "Lines": 15,
+    "Type": "increase in code relative to previous version: 288%",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "CNET"
+  },
+  {
+    "Application": "Apache Open Office",
+    "Lines": 23,
+    "Type": "open source office productivity software",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Ohloh"
+  },
+  {
+    "Application": "F-35 Fighter",
+    "Lines": 24,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "NYT says 3.5m. Wired says 24 million (http://www.wired.com/dangerroom/2012/11/marines-jsf/)",
+    "Source2": "NYTImes"
+  },
+  {
+    "Application": "Microsoft Office (2001)",
+    "Lines": 25,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "CNET"
+  },
+  {
+    "Application": "Windows 2000 (2000)",
+    "Lines": 29,
+    "Type": "increase in code relative to previous version: 1160%",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "or more",
+    "Source2": "Knowing .net"
+  },
+  {
+    "Application": "Microsoft Office for Mac (2006)",
+    "Lines": 30,
+    "Type": "office productivity software for use with Mac",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "MSDN Blog"
+  },
+  {
+    "Application": "Symbian",
+    "Lines": 37.6,
+    "Type": "mobile phone programming language",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Ohloh"
+  },
+  {
+    "Application": "Windows 7",
+    "Lines": 40,
+    "Type": "operating system",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Quora"
+  },
+  {
+    "Application": "Windows XP (2001)",
+    "Lines": 40,
+    "Type": "operating system. increase in code relative to previous version: 138%",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Knowing .net"
+  },
+  {
+    "Application": "Microsoft Office (2013)",
+    "Lines": 45,
+    "Type": "office productivity software for use with Windows",
+    "": 30,
+    "__1": 60,
+    "__2": "",
+    "Source1": "",
+    "Source2": "PC Mag"
+  },
+  {
+    "Application": "Large Hadron Collider",
+    "Lines": 50,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Coverity"
+  },
+  {
+    "Application": "Microsoft Visual Studio 2012",
+    "Lines": 50,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Microsoft Blog"
+  },
+  {
+    "Application": "Windows Vista (2007)",
+    "Lines": 50,
+    "Type": "increase in code relative to previous version: 125%",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "NYTImes"
+  },
+  {
+    "Application": "Facebook (without backend code)",
+    "Lines": 62,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "note from the source: \"The new count includes the entire git repository: data, binaries, third-party and all. Thanks to Adam Hupp for pointing this out to me. The number is from running git ls-files",
+    "Source2": "Quora"
+  },
+  {
+    "Application": "US Army's Future Combat System",
+    "Lines": 63.8,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Wired"
+  },
+  {
+    "Application": "Debian 5.0 codebase",
+    "Lines": 68,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": ""
+  },
+  {
+    "Application": "Mac OS X 10.4",
+    "Lines": 86,
+    "Type": "operating system",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Engadget"
+  },
+  {
+    "Application": "Software in typical new car, 2013",
+    "Lines": 100,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Wired"
+  },
+  {
+    "Application": "Debian 5.0 (all software in package)",
+    "Lines": 324,
+    "Type": "operating system",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "Debain is an operating system which is composed of free software",
+    "Source2": "Debain Counting"
+  },
+  {
+    "Application": "Healthcare.gov",
+    "Lines": 500,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "NY  Times"
+  },
+  {
+    "Application": "Google",
+    "Lines": "2,000.00",
+    "Type": "website",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "Wired"
+  },
+  {
+    "Application": "LibreOffice",
+    "Lines": 9.08,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "BlackDuck"
+  },
+  {
+    "Application": "OpenOffice",
+    "Lines": 11.3,
+    "Type": "",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "Source1": "",
+    "Source2": "BlackDuck"
+  }
+]
