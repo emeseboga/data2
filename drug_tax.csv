@@ -1,0 +1,35 @@
+Drug,Type of Saving,Lower Estimate,Upper Estimate,Average,Source,Link,Note
+UK,,,,,,,
+Cannabis Resin,Tax Revenue,"154,471,691","606,889,748","£380,680,720",Independent Drug Monitoring Unit,http://www.idmu.co.uk/oldsite/taxukdm.htm,£1/gram tax
+Cannabis Skunk,Tax Revenue,"187,157,006","735,304,101","£461,230,554",Independent Drug Monitoring Unit,http://www.idmu.co.uk/oldsite/taxukdm.htm,£2/gram tax
+Amphetamine,Tax Revenue,"92,290,000","131,288,310","£111,789,155",Independent Drug Monitoring Unit,http://www.idmu.co.uk/oldsite/taxukdm.htm,£3/gram tax
+Cocaine,Tax Revenue,"160,122,368","204,652,733","£182,387,551",Independent Drug Monitoring Unit,http://www.idmu.co.uk/oldsite/taxukdm.htm,£15/gram tax
+Crack,Tax Revenue,"189,570,301","759,117,553","£474,343,927",Independent Drug Monitoring Unit,http://www.idmu.co.uk/oldsite/taxukdm.htm,£30/gram tax
+Heroin,Tax Revenue,"68,894,674","355,335,063","£212,114,869",Independent Drug Monitoring Unit,http://www.idmu.co.uk/oldsite/taxukdm.htm,£15/gram tax
+LSD,Tax Revenue,"20,262,245","59,087,697","£39,674,971",Independent Drug Monitoring Unit,http://www.idmu.co.uk/oldsite/taxukdm.htm,£1/tab tax
+Ecstasy,Tax Revenue,"5,202,513","10,608,380","£7,905,447",Independent Drug Monitoring Unit,http://www.idmu.co.uk/oldsite/taxukdm.htm,£1/tab tax
+,,,,,,http://www.idmu.co.uk/oldsite/taxukdm.htm,
+Total,Tax Revenue,"877,970,799","2,862,283,586","£1,870,127,193",Independent Drug Monitoring Unit,http://www.idmu.co.uk/oldsite/taxukdm.htm,
+,VAT from retail sales @ 17.5%,"153,644,890","500,899,628","327,272,259",Independent Drug Monitoring Unit,http://www.idmu.co.uk/oldsite/taxukdm.htm,there seems to be an error in the IDMU calcs here - I've fixed
+,New Income Tax,"1,000,000,000","1,000,000,000","1,000,000,000",Independent Drug Monitoring Unit,http://www.idmu.co.uk/oldsite/taxukdm.htm,
+,Savings   ,"1,500,000,000","2,000,000,000","1,750,000,000",Independent Drug Monitoring Unit,http://www.idmu.co.uk/oldsite/taxukdm.htm,
+,TOTAL,"3,531,615,689","6,363,183,214","4,947,399,451",Independent Drug Monitoring Unit,http://www.idmu.co.uk/oldsite/taxukdm.htm,
+,New Costs,"-250,000,000","-500,000,000","-375,000,000",Independent Drug Monitoring Unit,http://www.idmu.co.uk/oldsite/taxukdm.htm,
+,FINAL TOTAL,"3,281,615,689","5,863,183,214","4,572,399,451",Independent Drug Monitoring Unit,http://www.idmu.co.uk/oldsite/taxukdm.htm,
+,inflation adjustment (10%),"3,609,777,258","6,449,501,535","5,029,639,396",Independent Drug Monitoring Unit,http://www.idmu.co.uk/oldsite/taxukdm.htm,"calcs were performed in 2004, amounts adjusted by 10%"
+,,,,,,,
+CONTEXT,,,,,,,
+University funding shortfall 2012,,,,"5,000,000,000",my calculations,"under old system, goverment provided 29% of university funding (£4.2bn) a year. Under new system, they will provide just 10%, meaning universities will be funding 64% (£9.3bn) - leaving a £5bn shortfall - paid for by a tuition fees hike",2012
+Alcohol,Government income per year (tax + VAT),,,"9,000,000,000",HM Revenue & Customs,http://www.hmrc.gov.uk/research/alcohol-consumption-uk.pdf,
+Tobacco,Government income per year (tax + VAT),,,"10,000,000,000",HM Revenue & Customs,http://www.the-tma.org.uk/tma-publications-research/facts-figures/tax-revenue-from-tobacco/,2009
+Bailout for Irish Republic,,,,"7,000,000,000",Guardian,http://www.guardian.co.uk/business/2010/nov/15/ireland-bailout-cost-to-britain,
+,,,,,,,
+US,,,,,,,
+Cannabis,Enforcment Spending,,,$7.7 bn,Jeffrey Miron,http://www.drugscope.org.uk/OneStopCMS/Core/CrawlerResourceServer.aspx?resource=67B6C309-2A04-45E7-9C98-F0395359405F&mode=link&guid=21bff3ca83d24051876a9093b3021618,
+Cannabis,Tax at standard levels,,,$2.4 bn,Jeffrey Miron,http://www.drugscope.org.uk/OneStopCMS/Core/CrawlerResourceServer.aspx?resource=67B6C309-2A04-45E7-9C98-F0395359405F&mode=link&guid=21bff3ca83d24051876a9093b3021618,
+Cannabis,Tax at alcohol/tobacco levels,,,$6.2 bn,Jeffrey Miron,http://www.drugscope.org.uk/OneStopCMS/Core/CrawlerResourceServer.aspx?resource=67B6C309-2A04-45E7-9C98-F0395359405F&mode=link&guid=21bff3ca83d24051876a9093b3021618,
+,,,,,,,
+Cannabis,Currently Lost Taxes,,,$31.1bn,,http://www.drugscience.org/Archive/bcr4/exec_summ.html,
+Cannabis,Enforcement Spending,,,$10.7bn,,http://www.drugscience.org/Archive/bcr4/exec_summ.html,
+,,,,,,,
+All drugs,Tax and Savings,,,$43bn,,http://www.guardian.co.uk/world/2010/aug/08/drugs-legalise-mexico-california,
